@@ -1,0 +1,6 @@
+{
+  "name": "conso-claude",
+  "version": "0.2.0",
+  "description": "Affiche dans une barre au-dessus du prompt tes limites d'utilisation, le contexte et le coût de la session",
+  "types": "./types/index.d.ts"
+}

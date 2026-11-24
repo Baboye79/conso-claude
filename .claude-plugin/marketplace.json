@@ -1,0 +1,11 @@
+{
+  "name": "conso-claude-local",
+  "owner": { "name": "Baboye79" },
+  "plugins": [
+    {
+      "name": "conso-claude",
+      "source": "./",
+      "description": "Affiche dans une barre au-dessus du prompt tes limites d'utilisation, le contexte et le coût de la session"
+    }
+  ]
+}
